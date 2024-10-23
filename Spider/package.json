@@ -1,0 +1,336 @@
+{
+  "name": "Spider",
+  "version": "1.0.0",
+  "dependencies": {
+    "content": {
+      "data": {
+        "allCitySearchLabels": {
+          "A": [
+            {
+              "id": 723,
+              "name": "安阳",
+              "parentId": 545,
+              "code": "171500000",
+              "isSelected": false
+            },
+            {
+              "id": 601,
+              "name": "鞍山",
+              "parentId": 535,
+              "code": "081600000",
+              "isSelected": false
+            },
+            {
+              "id": 671,
+              "name": "安庆",
+              "parentId": 541,
+              "code": "131800000",
+              "isSelected": false
+            },
+            {
+              "id": 825,
+              "name": "安顺",
+              "parentId": 553,
+              "code": "240400000",
+              "isSelected": false
+            },
+            {
+              "id": 897,
+              "name": "阿克苏",
+              "parentId": 560,
+              "code": "311800000",
+              "isSelected": false
+            },
+            {
+              "id": 105795,
+              "name": "澳门",
+              "parentId": 562,
+              "code": "330100000",
+              "isSelected": false
+            },
+            {
+              "id": 862,
+              "name": "安康",
+              "parentId": 556,
+              "code": "270400000",
+              "isSelected": false
+            },
+            {
+              "id": 903,
+              "name": "阿勒泰",
+              "parentId": 560,
+              "code": "310400000",
+              "isSelected": false
+            }
+          ],
+          "B": [
+            {
+              "id": 5,
+              "name": "北京",
+              "parentId": 1,
+              "code": "010100000",
+              "isSelected": false
+            },
+            {
+              "id": 570,
+              "name": "保定",
+              "parentId": 532,
+              "code": "051100000",
+              "isSelected": false
+            },
+            {
+              "id": 789,
+              "name": "北海",
+              "parentId": 549,
+              "code": "211000000",
+              "isSelected": false
+            },
+            {
+              "id": 666,
+              "name": "蚌埠",
+              "parentId": 541,
+              "code": "131300000",
+              "isSelected": false
+            },
+            {
+              "id": 717,
+              "name": "滨州",
+              "parentId": 544,
+              "code": "161400000",
+              "isSelected": false
+            },
+            {
+              "id": 588,
+              "name": "包头",
+              "parentId": 534,
+              "code": "071300000",
+              "isSelected": false
+            },
+            {
+              "id": 856,
+              "name": "宝鸡",
+              "parentId": 556,
+              "code": "271000000",
+              "isSelected": false
+            },
+            {
+              "id": 678,
+              "name": "亳州",
+              "parentId": 541,
+              "code": "130500000",
+              "isSelected": false
+            },
+            {
+              "id": 828,
+              "name": "毕节",
+              "parentId": 553,
+              "code": "240700000",
+              "isSelected": false
+            },
+            {
+              "id": 896,
+              "name": "巴音郭楞",
+              "parentId": 560,
+              "code": "311700000",
+              "isSelected": false
+            },
+            {
+              "id": 834,
+              "name": "保山",
+              "parentId": 554,
+              "code": "251400000",
+              "isSelected": false
+            },
+            {
+              "id": 817,
+              "name": "巴中",
+              "parentId": 552,
+              "code": "230500000",
+              "isSelected": false
+            },
+            {
+              "id": 867,
+              "name": "白银",
+              "parentId": 557,
+              "code": "281100000",
+              "isSelected": false
+            },
+            {
+              "id": 794,
+              "name": "百色",
+              "parentId": 549,
+              "code": "210500000",
+              "isSelected": false
+            },
+            {
+              "id": 620,
+              "name": "白城",
+              "parentId": 536,
+              "code": "090400000",
+              "isSelected": false
+            },
+            {
+              "id": 618,
+              "name": "白山",
+              "parentId": 536,
+              "code": "090600000",
+              "isSelected": false
+            },
+            {
+              "id": 603,
+              "name": "本溪",
+              "parentId": 535,
+              "code": "081400000",
+              "isSelected": false
+            },
+            {
+              "id": 597,
+              "name": "巴彦淖尔",
+              "parentId": 534,
+              "code": "070400000",
+              "isSelected": false
+            }
+          ],
+          "C": [
+            {
+              "id": 801,
+              "name": "成都",
+              "parentId": 552,
+              "code": "230100000",
+              "isSelected": false
+            },
+            {
+              "id": 8,
+              "name": "重庆",
+              "parentId": 4,
+              "code": "040100000",
+              "isSelected": false
+            },
+            {
+              "id": 749,
+              "name": "长沙",
+              "parentId": 547,
+              "code": "190100000",
+              "isSelected": false
+            },
+            {
+              "id": 638,
+              "name": "常州",
+              "parentId": 539,
+              "code": "112000000",
+              "isSelected": false
+            },
+            {
+              "id": 613,
+              "name": "长春",
+              "parentId": 536,
+              "code": "090100000",
+              "isSelected": false
+            },
+            {
+              "id": 573,
+              "name": "沧州",
+              "parentId": 532,
+              "code": "050800000",
+              "isSelected": false
+            },
+            {
+              "id": 758,
+              "name": "郴州",
+              "parentId": 547,
+              "code": "190500000",
+              "isSelected": false
+            },
+            {
+              "id": 673,
+              "name": "滁州",
+              "parentId": 541,
+              "code": "131100000",
+              "isSelected": false
+            },
+            {
+              "id": 781,
+              "name": "潮州",
+              "parentId": 548,
+              "code": "200500000",
+              "isSelected": false
+            },
+            {
+              "id": 755,
+              "name": "常德",
+              "parentId": 547,
+              "code": "190800000",
+              "isSelected": false
+            },
+            {
+              "id": 590,
+              "name": "赤峰",
+              "parentId": 534,
+              "code": "071100000",
+              "isSelected": false
+            },
+            {
+              "id": 572,
+              "name": "承德",
+              "parentId": 532,
+              "code": "050900000",
+              "isSelected": false
+            },
+            {
+              "id": 611,
+              "name": "朝阳",
+              "parentId": 535,
+              "code": "080600000",
+              "isSelected": false
+            },
+            {
+              "id": 836,
+              "name": "楚雄",
+              "parentId": 554,
+              "code": "251200000",
+              "isSelected": false
+            },
+            {
+              "id": 905,
+              "name": "崇左",
+              "parentId": 549,
+              "code": "211400000",
+              "isSelected": false
+            },
+            {
+              "id": 679,
+              "name": "池州",
+              "parentId": 541,
+              "code": "130600000",
+              "isSelected": false
+            },
+            {
+              "id": 108405,
+              "name": "澄迈",
+              "parentId": 550,
+              "code": "220290000",
+              "isSelected": false
+            },
+            {
+              "id": 894,
+              "name": "昌吉",
+              "parentId": 560,
+              "code": "311500000",
+              "isSelected": false
+            },
+            {
+              "id": 848,
+              "name": "昌都",
+              "parentId": 555,
+              "code": "260200000",
+              "isSelected": false
+            }
+          ]
+        }
+      },
+      "rows": []
+    },
+    "state": 1,
+    "message": "success"
+  }
+}
